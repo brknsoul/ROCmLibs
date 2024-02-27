@@ -4,6 +4,7 @@ This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapp
 Download `ROCmLibs.zip` and place them into `%HIP_PATH\bin\rocblas\` after renaming the libary folder there.
 
 #### Added ROCmLibs_Testing.7z for the following archs
+_(You'll need to install 7-zip or WinRAR to extract this archive.)_
 - gfx803
 - gfx900
 - gfx906
