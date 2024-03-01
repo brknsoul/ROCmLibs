@@ -3,6 +3,8 @@
 This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapper for AMD GPUs  
 Download `ROCmLibs.zip` and place them into `%HIP_PATH\bin\rocblas\` after renaming the libary folder there.
 
+_(Thanks to [YellowRoseCx](https://github.com/YellowRoseCx) for the initial Libs build)_
+
 #### Added ROCmLibs_Testing.7z for the following archs
 _(You'll need to install 7-zip or WinRAR to extract this archive.)_
 - gfx803
