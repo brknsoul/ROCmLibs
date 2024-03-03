@@ -8,8 +8,8 @@ _(Thanks to [YellowRoseCx](https://github.com/YellowRoseCx) for the initial Libs
 #### Added ROCmLibs_Testing.7z for the following archs
 _(You'll need to install 7-zip or WinRAR to extract this archive.)_
 - gfx803 [!](https://github.com/brknsoul/ROCmLibs/wiki/ROCmLibs_Testing-Notes)
-- gfx900 [!](https://github.com/brknsoul/ROCmLibs/wiki/ROCmLibs_Testing-Notes)
-- gfx906
+- gfx900 
+- gfx906 [!](https://github.com/brknsoul/ROCmLibs/wiki/ROCmLibs_Testing-Notes)
 - gfx1010
 - gfx1011
 - gfx1012
