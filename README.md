@@ -6,6 +6,7 @@ Download `ROCmLibs.zip` and place them into `%HIP_PATH\bin\rocblas\` after renam
 _(Thanks to [YellowRoseCx](https://github.com/YellowRoseCx) for the initial Libs build)_
 
 #### Added Optimised_ROCmLibs_gfx1032.7z for gfx1032 (6600)
+#### Added Optimised_ROCmLibs_gfx1031.7z for gfx1031 (6700)
 
 #### Added ROCmLibs_Testing.7z for the following archs
 _(You'll need to install 7-zip or WinRAR to extract this archive.)_
