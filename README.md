@@ -1,9 +1,7 @@
 ### ROCm Library Files for gfx1031 and gfx1032 based AMD GPUs for use in Windows.
 
 This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapper for AMD GPUs  
-Download `ROCmLibs.zip` and place them into `%HIP_PATH\bin\rocblas\` after renaming the libary folder there to something else (eg "oldlibrary").
-
-_(Thanks to [YellowRoseCx](https://github.com/YellowRoseCx) for the initial Libs build)_
+Download the relevant optimised ROCm Library 7zip file and place them into `%ProgramFiles%\AMD\ROCm\5.7\bin\rocblas\` after renaming the libary folder there to something else (eg "oldlibrary").
 
 #### Added Optimised_ROCmLibs_gfx1032.7z for gfx1032 (6600)
 #### Added Optimised_ROCmLibs_gfx1031.7z for gfx1031 (6700)
