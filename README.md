@@ -14,4 +14,4 @@ _(You'll need to install 7-zip or WinRAR to extract these archives.)_
 ---
 
 For testing purposes, the old version of ROCmLibs.zip can be accessed on dropbox from [here](https://www.dropbox.com/scl/fi/qx0ritf10zqof3rlw3rfh/ROCmLibs.zip?rlkey=t8kmkbhm7muk6a26kxoexw0mb&st=kthr8d9f&dl=0).  
-These libs were pulled from YellowRoseCx's ROCm fork of KoboldCPP.
+These libs were pulled from YellowRoseCx's ROCm [fork](https://github.com/YellowRoseCx/koboldcpp-rocm) of KoboldCPP.
