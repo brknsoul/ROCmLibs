@@ -8,6 +8,7 @@ This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapp
 
 #### Added Optimised_ROCmLibs_gfx1032.7z for gfx1032 (6600)
 #### Added Optimised_ROCmLibs_gfx1031.7z for gfx1031 (6700)
+#### Added rocm gfx1031 for hip sdk 6.1.2 optimized.7z
 
 _(You'll need to install 7-zip or WinRAR to extract these archives.)_
 
