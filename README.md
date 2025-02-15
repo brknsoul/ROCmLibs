@@ -5,8 +5,9 @@ This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapp
 - Open Explorer and navigate to  `%ProgramFiles%\AMD\ROCm\5.7\bin\rocblas\`  
 - Make a backup of the library folder.  
 - Download the relevant ROCm Library 7zip file and extract the library folder, overwriting any files there.
-- If the 7zip file also contains `rocblas.dll`, extract this into `%ProgramFiles%\AMD\ROCm\5.7\bin`
+- If the 7zip file also contains `rocblas.dll`, extract this into `%ProgramFiles%\AMD\ROCm\5.7\bin`  
 
+#### Changes
 - Added Optimised_ROCmLibs_gfx1032.7z for gfx1032 (6600)  
 - Added Optimised_ROCmLibs_gfx1031.7z for gfx1031 (6700)  
 - Added rocm gfx1031 for hip sdk 6.1.2 optimized.7z  
