@@ -1,6 +1,7 @@
 ### ROCm Library Files for "unsupported" AMD GPUs for use in Windows.
 
 This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapper for AMD GPUs  
+_(Note: Unless stated, these libraries only support HIP SDK 5.7.1)_  
 
 - Open Explorer and navigate to  `%ProgramFiles%\AMD\ROCm\5.7\bin\rocblas\`  
 - Make a backup of the library folder.  
@@ -10,9 +11,9 @@ This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapp
 #### Changes
 - Added Optimised_ROCmLibs_gfx1032.7z for gfx1032 (6600)  
 - Added Optimised_ROCmLibs_gfx1031.7z for gfx1031 (6700)  
-- Added rocm gfx1031 for hip sdk 6.1.2 optimized.7z  
-- Added gfx1031, gfx1032 for hip sdk 6.2.4  
-- Added NewerROCmLibs.rar for hip sdk 5.7.1. Might support gfx803.  
+- Added rocm gfx1031 for HIP SDK 6.1.2 optimized.7z  
+- Added gfx1031, gfx1032 for HIP SDK 6.2.4  
+- Added NewerROCmLibs.rar for HIP SDK 5.7.1. Might support gfx803.  
    _(These are from a later version YellowRoseCX's Fork of KoboldCPP)_
 - Added gfx902-vega8, (supports 2200g, 2400g, 3200g, 3400g). This libary requires an older version of torch;  
   `pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu118`
