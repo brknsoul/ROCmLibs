@@ -13,7 +13,7 @@ This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapp
 - Added NewerROCmLibs.rar for hip sdk 5.7.1. Might support gfx803.  
    _(These are from a later version YellowRoseCX's Fork of KoboldCPP)_
 - Added gfx902-vega8, these require older version of torch.  
-  _`pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu118`_
+  `pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu118`
   
 _(You'll need to install 7-zip or WinRAR to extract these archives.)_
 
