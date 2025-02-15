@@ -4,7 +4,8 @@ This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapp
 
 - Open Explorer and navigate to  `%ProgramFiles%\AMD\ROCm\5.7\bin\rocblas\`  
 - Make a backup of the library folder.  
-- Download the relevant optimised ROCm Library 7zip file and place them into the library folder, overwriting any files there.  
+- Download the relevant ROCm Library 7zip file and extract the library folder, overwriting any files there.
+- If the 7zip file also contains `rocblas.dll`, extract this into `%ProgramFiles%\AMD\ROCm\5.7\bin`
 
 - Added Optimised_ROCmLibs_gfx1032.7z for gfx1032 (6600)  
 - Added Optimised_ROCmLibs_gfx1031.7z for gfx1031 (6700)  
@@ -12,7 +13,7 @@ This repo was created to host ROCm Library files for use in the ZLUDA CUDA Wrapp
 - Added gfx1031, gfx1032 for hip sdk 6.2.4  
 - Added NewerROCmLibs.rar for hip sdk 5.7.1. Might support gfx803.  
    _(These are from a later version YellowRoseCX's Fork of KoboldCPP)_
-- Added gfx902-vega8, these require older version of torch.  
+- Added gfx902-vega8, (supports 2200g, 2400g, 3200g, 3400g). This libary requires an older version of torch;  
   `pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu118`
   
 _(You'll need to install 7-zip or WinRAR to extract these archives.)_
