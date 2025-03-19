@@ -17,6 +17,7 @@ _(Note: Unless stated, these libraries only support HIP SDK 5.7.1)_
    _(These are from a later version YellowRoseCX's Fork of KoboldCPP)_
 - Added gfx902-vega8, (supports 2200g, 2400g, 3200g, 3400g). This libary requires an older version of torch;  
   `pip install torch==2.2.1 torchvision==0.17.1 torchaudio==2.2.1 --index-url https://download.pytorch.org/whl/cu118`
+- Added rocm gfx1201 for rocm 6.2.4-no-optimized.7z for 9000 series GPUs.
   
 _(You'll need to install 7-zip or WinRAR to extract these archives.)_
 
